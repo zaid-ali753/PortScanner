@@ -20,3 +20,6 @@ python2 PortScanner.py -H<target Host> -p<target Port>
      exmaple( python2 PortScanner.py -H 192.168.X.XX -p 443,153,80)
  
   
+Port Banner is used to check for banners on open TCP port
+
+It points to possible vulnerability on Open available Port
